@@ -1,3 +1,5 @@
 #loles
 def add (x,y):
-    return x + y -10
+    return x + y 
+def minus (x,y):
+    return x-+ y 
