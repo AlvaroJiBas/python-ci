@@ -1,5 +1,5 @@
-from add import add
-from add import minus
+from mathe import add
+from mathe import minus
 
 def test_add():
     assert add(2,3) == 5
@@ -9,4 +9,5 @@ def test_minus():
     assert minus(5,6) == -1
     assert minus(0,0) == 0
     assert minus(7,5) == 2
+
 
